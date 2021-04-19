@@ -6,7 +6,7 @@ To listen to the fruits of my labour, [click here](https://www.youtube.com/watch
 
 ## What is this?
 
-What I am presenting to you is a version of the infamous John Coltrane classic Giant Steps, written entirely using Ruby code.
+What I am presenting to you is a version of the immortal John Coltrane classic Giant Steps, written entirely using Ruby code.
 
 ## How I did it
 
